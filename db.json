@@ -1,0 +1,48 @@
+{
+    "restaurant": [
+      { "id": 1 ,
+      "name":"Pizza Hut",
+      "address":"Noida",
+      "rating":"4.5",
+      "email":"pizzahut@gmail.com"
+   
+    }, 
+
+    { "id": 2 ,
+    "name":"KFC ",
+    "address":"Faridabad",
+    "rating":"5",
+    "email":"kfcislovet@gmail.com"
+ 
+  },
+
+  { "id": 3 ,
+  "name":"McDonald",
+  "address":"Delhi",
+  "rating":"4.0",
+  "email":"McDonald@gmail.com"
+
+},
+{ "id": 4 ,
+"name":"K3 Restro",
+"address":"Delhi",
+"rating":"5",
+"email":"marriott@gmail.com"
+
+},
+{ "id": 5 ,
+"name":"BBQ Nation",
+"address":"Faridabad",
+"rating":"4",
+"email":"nation@gmail.com"
+
+},
+{ "id": 6 ,
+"name":"Chintu ka dhaba",
+"address":"Pantnagar",
+"rating":"5",
+"email":"chintu@gmail.com"
+
+}
+    ]
+}
